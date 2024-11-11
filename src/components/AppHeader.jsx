@@ -1,12 +1,12 @@
 export default function AppHeader() {
     //logic here
-    const title = 'My react app'
+
+    // const title = 'My react app'
+    const title = 'Task Manager'
     //markup here
     return (
         <header>
-            <div>
-                {title}
-            </div>
+            <h2>{title}</h2>
         </header>
     )
 }

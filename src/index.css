@@ -3,3 +3,36 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  background-color: #7fffd3;
+  padding: 0.5rem 1rem;
+}
+
+main {
+  padding: 0.5rem 1rem;
+
+  .hr {
+    margin-top: 1rem;
+  }
+}
+
+.task-section-backlog {
+  margin-bottom: 1rem;
+}
+
+.colored {
+  background-color: #d2691e;
+  color: white;
+  padding: 0.2rem;
+  border-radius: 5%;
+  max-width: fit-content;
+}
+
+.task-section-completed {
+  margin-top: 1rem;
+}
+
+h3 {
+  margin: 1rem 0.5rem;
+}
