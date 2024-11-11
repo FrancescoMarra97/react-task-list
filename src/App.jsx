@@ -13,7 +13,6 @@ function App() {
     <>
       <AppHeader />
       <AppMain />
-
       <AppFooter />
     </>
   )
